@@ -1,0 +1,1 @@
+import{b as i}from"./q-2787ce72.js";import{a as d}from"./q-2787ce72.js";const t=({track:o})=>{const[n]=i();o(()=>n.value);const e=()=>{window&&(n.value=window.innerWidth)};return e(),window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)};export{d as _hW,t as s_nWSTHMo0lhQ};
